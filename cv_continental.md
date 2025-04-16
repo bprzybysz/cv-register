@@ -3,7 +3,7 @@ AI Architect & Cloud/Software Engineering Professional
 Wrocław, Dolnośląskie, Poland
 
 ## Contact
-- Email: blazej.przybyszewski@gmail.com
+- Email: blazej.przybyszewski@nordcloud.com
 - LinkedIn: [bprzybysz](https://www.linkedin.com/in/bprzybysz)
 
 ## Summary
