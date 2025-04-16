@@ -96,6 +96,6 @@ Accomplished Cloud Developer and AI Architect with extensive experience in softw
 - **Technical University of Wroclaw** (1997 - 2003) - Master of Science (M.Sc.), Computer Programming
 
 ## Languages
-- English (Professional Working)
+- English (C2 / Professional Working)
 - German (C1 / Limited Working)
 - Polish (Native) 
