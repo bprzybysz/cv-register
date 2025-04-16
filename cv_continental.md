@@ -97,5 +97,5 @@ Accomplished Cloud Developer and AI Architect with extensive experience in softw
 
 ## Languages
 - English (Professional Working)
-- German (C1 / Limited Working - *Note: Discrepancy between sources*)
-- Polish (Native or Bilingual) 
+- German (C1 / Limited Working)
+- Polish (Native) 
